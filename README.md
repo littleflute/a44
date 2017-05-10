@@ -1,12 +1,12 @@
-[v0.0.8](https://github.com/littleflute/a44/edit/master/README.md)
+[v0.0.9](https://github.com/littleflute/a44/edit/master/README.md)
 
 [show this page](https://littleflute.github.io/a44/)
 
-[Power of soul-a tribute to Jimi Hendrix](Power of soul-a tribute to Jimi Hendrix)
+[cd3/](cd3)
 
-[Rainbow bridge/](Rainbow bridge/)
+[cd2/](cd2)
 
-[Smash hits](Smash hits)
+[cd1](cd1)
 
 
 <audio controls id="player"> 
