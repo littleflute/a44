@@ -1,4 +1,4 @@
-[v0.0.7](https://github.com/littleflute/a44/edit/master/cd4/readme.md)
+[v0.0.8](https://github.com/littleflute/a44/edit/master/cd4/readme.md)
 
 [show this page](https://littleflute.github.io/a44/cd4)
 
@@ -15,7 +15,7 @@ Your browser does not support the audio element.
 <script>
 var d = document.getElementById("xd"); 
 var html = d.innerHTML; 
-for(var n = 1; n<=24; n++)
+for(var n = 1; n<=23; n++)
 {
   html += fNewBtn(n);
 }
