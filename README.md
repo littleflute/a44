@@ -1,6 +1,12 @@
-[v0.1.1](https://github.com/littleflute/a44/edit/master/README.md)
+[v0.1.2](https://github.com/littleflute/a44/edit/master/README.md)
 
 [show this page](https://littleflute.github.io/a44/)
+
+[cd10](cd10)
+
+[cd9](cd9)
+
+[cd8](cd8)
 
 [cd7](cd7)
 
